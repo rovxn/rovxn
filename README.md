@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio Project<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about anything<br>⚡ Fun fact, I'm a Musician
+🔭 I’m currently working on Portfolio Project<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about anything<br>⚡ Studying at Muthoot Institute of Technology and Science
 
 
 ## 🌐 Socials:
