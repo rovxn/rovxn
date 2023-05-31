@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio Project<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about anything<br>⚡ Studying at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
+🔭 I’m currently working on Portfolio Project<br>🌱 I’m currently learning Nuxt Js<br>💬 Ask me about anything<br>⚡ Studying at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
 
 
 ## 🌐 Socials:
