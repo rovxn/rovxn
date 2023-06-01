@@ -2,6 +2,10 @@
 🔭 I’m currently working on Portfolio Project<br>🌱 I’m currently learning Nuxt Js<br>💬 Ask me about anything<br>⚡ Studying at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_l.uc.1f3r_._) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rovan-thomas-john-634726238) 
