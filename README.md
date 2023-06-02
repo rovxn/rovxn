@@ -10,6 +10,19 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rovn_)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 May 2023 - To: 01 June 2023
+
+Total Time: 2 hrs 56 mins
+
+C            1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.36 %
+YAML         37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Python       30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+Markdown     20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+```
+
 <!--END_SECTION:waka-->
 
 
