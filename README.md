@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 22 July 2025
+From: 31 May 2023 - To: 23 July 2025
 
-Total Time: 506 hrs 55 mins
+Total Time: 507 hrs 45 mins
 
-Vue.js              172 hrs 45 mins ████████▓░░░░░░░░░░░░░░░░   34.08 %
-JavaScript          139 hrs 33 mins ███████░░░░░░░░░░░░░░░░░░   27.53 %
-Python              41 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-HTML                31 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Vue.js              172 hrs 45 mins ████████▓░░░░░░░░░░░░░░░░   34.02 %
+JavaScript          139 hrs 33 mins ███████░░░░░░░░░░░░░░░░░░   27.49 %
+Python              41 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+HTML                32 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 TypeScript          25 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
