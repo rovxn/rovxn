@@ -1,5 +1,4 @@
 # 💫 About Me:
-👨‍💻 Fellow Maker (SSK) at [Kerala Startup Mission](https://startupmission.kerala.gov.in/)<br/>
 🚀 Passionate about building scalable web apps, creative digital products & impactful community-driven solutions<br/>
 🎓 Alumnus of [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)<br/>
 🌟 Actively exploring startups, innovation, and open-source contributions<br/>
